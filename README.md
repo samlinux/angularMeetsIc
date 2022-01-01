@@ -68,7 +68,7 @@ cd backend
 sudo rm -R node_modues
 
 # copy the custom-webpack.config.js in this folder
-cp cp ../../custom-webpack.config.js ./
+cp ../../custom-webpack.config.js ./
 
 # start IC local replica
 dfx start
